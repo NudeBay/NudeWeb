@@ -1,36 +1,33 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# NudeBay&copy;
+"NudeBay" - is ***free*** app for watching porn. (todo: improve this shit)
 
-## Getting Started
+*"Talk is cheap, show me the ~~code~~ boobs"<br>
+~ ~~Linus Torvalds~~ Mikael.*
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+# Features
+We can currently provide:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Support on every type of browser
+- Secured database
+- Helpful support 
+- Chats and communicate with others easily
+- Fast and helpful support 
+- Paid subscriptions and donates for creators
+- High quality of uploaded photos and videos
+- Newest technologies
+- Restful API
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+# Feedback
+We would love to hear your feedback after using our site. If you found a bug please report it using github [posting an issue](https://github.com/Michallesss/NudeBay/issues).
+Feedbacks are always much appreciated.
 
-## Learn More
+If there's anything you would like to suggest or add please dm us using Discord.
 
-To learn more about Next.js, take a look at the following resources:
+# Contributors
+This project was made by these people -> [Forhael](https://github.com/Forhael) & [Michallesss](https://github.com/Michallesss)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+***WORK IN PROGRESS***
+***WORK IN PROGRESS***
+***WORK IN PROGRESS***
