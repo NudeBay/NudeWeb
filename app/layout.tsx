@@ -1,15 +1,17 @@
 import type { Metadata } from 'next'
-import { Inter } from 'next/font/google'
-import NextNProgress from 'nextjs-progressbar';
-import { UserProvider } from '@auth0/nextjs-auth0/client';
-import './globals.css'
+import { Ubuntu } from 'next/font/google'
+import { UserProvider } from '@auth0/nextjs-auth0/client'
+import './globals.scss'
 
-const inter = Inter({ subsets: ['latin'] })
+const ubuntu = Ubuntu({
+  weight: '400',
+  subsets: ['latin'],
+})
 
 export const metadata: Metadata = {
   title: 'NudeBay',
   description: 'Short Porn Content for Free',
-  keywords: ['Porn', 'Shorts', 'XXX', 'Sex', ''],
+  keywords: ['Porn', 'Shorts', 'XXX', 'Sex'],
 }
 
 export default function RootLayout({
@@ -20,8 +22,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <UserProvider>
-        <NextNProgress color='#e5194d' startPosition={0.3} />
-        <body className={inter.className}>{children}</body>
+        <body className={ubuntu.className}>{children}</body>
       </UserProvider>
     </html>
   )
