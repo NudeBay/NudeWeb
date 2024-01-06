@@ -1,3 +1,5 @@
+'use client';
+
 // Date format: mm dd, yyyy at hh:mm
 export function FormatDate({ date } : { date: Date}) {
   date=new Date(date);
